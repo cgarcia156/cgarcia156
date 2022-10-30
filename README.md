@@ -1,18 +1,19 @@
-<h2> 🇺🇸 Hey there! I'm Chris 😎.</h2>
+<h2> 🇺🇸 Hey there! I'm Chris 😎</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🦾 &nbsp; Exploring new technologies
-- 🧐 &nbsp; Learning to design efficiently
+- 🧐 &nbsp; Exploring new technologies
+- 🌱 &nbsp; Learning to design efficient algorithms and systems
 - 🎓 &nbsp; Studying Computer Science at California State Polytechnic University, Pomona.
 - ⚽️ &nbsp; Following the beautiful game during my free time.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![SQL](https://img.shields.io/badge/-SQL-333333)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
